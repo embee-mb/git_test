@@ -1,0 +1,1 @@
+This is Emallie's first git project!
